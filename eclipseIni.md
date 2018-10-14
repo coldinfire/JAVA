@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 作者：拉风的咖菲猫
 链接：https://www.imooc.com/article/34910
 来源：慕课网
+=======
+>>>>>>> dev
 -vm
 C:/Program Files/Java/jdk1.7.0_51/bin/javaw.exe
 -startup
@@ -25,3 +28,10 @@ openFile
 -XX:+UseParNewGC
 -Xms40m
 -Xmx128M
+<<<<<<< HEAD
+=======
+
+作者：拉风的咖菲猫
+链接：https://www.imooc.com/article/34910
+来源：慕课网
+>>>>>>> dev
